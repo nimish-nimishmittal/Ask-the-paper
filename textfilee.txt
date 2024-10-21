@@ -1,0 +1,4 @@
+latest adjustments for latest dependencies added in Dockerfile
+
+nimishchatpdfbucket => aws s3 bucket used for amazon bedrock (used in Oregon Region)
+from langchain_aws import BedrockEmbeddings
