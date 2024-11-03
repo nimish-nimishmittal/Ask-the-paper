@@ -1,4 +1,4 @@
-# Ask the Paper
+# Ask the Paper [draft]
 
 ## Project Description
 "Ask the Paper" is an intuitive platform designed for organizations, teams, and researchers to analyze and query their research materials. The project transforms interaction with text documents by enabling users to ask direct questions and receive insightful answers based on the content of those documents.
